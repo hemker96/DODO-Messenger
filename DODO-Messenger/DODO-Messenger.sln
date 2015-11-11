@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DODO-Messenger-Client", "DO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DODO-Messenger-Server", "DODO-Messenger-Server\DODO-Messenger-Server.csproj", "{8E719388-285A-43E9-981D-B2181A582BB0}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BB8670CA-44B4-4F45-880F-BB1F73F6BB6F}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E599FA2C-B712-4EE9-B484-CBDE5F07D3F2}"
 	ProjectSection(SolutionItems) = preProject
 		Logo.ico = Logo.ico
 	EndProjectSection
