@@ -10,7 +10,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BB8670CA-44B4-4F45-880F-BB1F73F6BB6F}"
 	ProjectSection(SolutionItems) = preProject
 		Logo.ico = Logo.ico
-		..\..\..\..\OneDrive - Europäische Fachhochschule\BS\AWE\Projekt Chat.docx = ..\..\..\..\OneDrive - Europäische Fachhochschule\BS\AWE\Projekt Chat.docx
 	EndProjectSection
 EndProject
 Global
