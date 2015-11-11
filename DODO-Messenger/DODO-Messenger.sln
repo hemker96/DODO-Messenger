@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DODO-Messenger-Client", "DODO-Messenger-Client\DODO-Messenger-Client.csproj", "{FF0A618A-AA69-46BD-96AB-A8AD71F38659}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DODO-Messenger-Server", "DODO-Messenger-Server\DODO-Messenger-Server.csproj", "{8E719388-285A-43E9-981D-B2181A582BB0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BB8670CA-44B4-4F45-880F-BB1F73F6BB6F}"
+	ProjectSection(SolutionItems) = preProject
+		Logo.ico = Logo.ico
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF0A618A-AA69-46BD-96AB-A8AD71F38659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF0A618A-AA69-46BD-96AB-A8AD71F38659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF0A618A-AA69-46BD-96AB-A8AD71F38659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF0A618A-AA69-46BD-96AB-A8AD71F38659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E719388-285A-43E9-981D-B2181A582BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E719388-285A-43E9-981D-B2181A582BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E719388-285A-43E9-981D-B2181A582BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E719388-285A-43E9-981D-B2181A582BB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
