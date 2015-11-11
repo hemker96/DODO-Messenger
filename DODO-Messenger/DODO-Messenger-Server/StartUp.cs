@@ -10,7 +10,7 @@ namespace DODO_Messenger_Server
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("StartUp Server");
+            Console.WriteLine("StartUp Server.");
             Console.ReadKey();
         }
     }

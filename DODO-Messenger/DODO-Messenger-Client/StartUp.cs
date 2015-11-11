@@ -10,7 +10,7 @@ namespace DODO_Messenger_Client
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("StartUp Client");
+            Console.WriteLine("StartUp Client.");
             Console.ReadKey();
         }
     }
