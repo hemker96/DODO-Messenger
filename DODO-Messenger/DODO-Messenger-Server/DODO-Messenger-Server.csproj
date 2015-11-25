@@ -77,8 +77,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Network\MessageBuilder.cs" />
+    <Compile Include="Network\NetworkInputHandler_Interface.cs" />
     <Compile Include="Network\StandartConnection.cs" />
     <Compile Include="Network\Connection_interface.cs" />
+    <Compile Include="Network\StandartInputHandler.cs" />
     <Compile Include="StartUp.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
